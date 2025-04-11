@@ -1,0 +1,2 @@
+Command for submitting solution:
+exercism submit /Users/ianmiller/Exercism/go/PACKAGE_NAME/FILE_NAME
